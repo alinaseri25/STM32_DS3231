@@ -26,3 +26,4 @@ Ds3231.GetTime(&datetime); // get current time from DS3231
 Ds3231.GetDate(&datetime); // get current date from DS3231
 
 float temp = Ds3231.GetTemperature(); // get temperature from DS3231 Sensor
+
